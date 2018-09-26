@@ -13,3 +13,6 @@ D:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇ
 I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\bin\Debug\projeto.exe.config
 I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.exe
 I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\etec\Desktop\exercicio4avaliacao1\projeto\bin\Debug\projeto.exe.config
+C:\Users\etec\Desktop\exercicio4avaliacao1\projeto\obj\Debug\projeto.exe
+C:\Users\etec\Desktop\exercicio4avaliacao1\projeto\obj\Debug\projeto.pdb
