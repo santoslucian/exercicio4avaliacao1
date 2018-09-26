@@ -1,0 +1,15 @@
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\etec\Desktop\projeto\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\etec\Desktop\projeto\projeto\projeto\obj\Debug\projeto.pdb
+E:\projeto\projeto\projeto\bin\Debug\projeto.exe.config
+E:\projeto\projeto\projeto\obj\Debug\projeto.exe
+E:\projeto\projeto\projeto\obj\Debug\projeto.pdb
+D:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\bin\Debug\projeto.exe.config
+D:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.exe
+D:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.pdb
+I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\bin\Debug\projeto.exe.config
+I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.exe
+I:\Curso\Luiz Felipe\Desenvolvimento de Sistemas - Tarde\TÉCNICAS DE PROGRAMAÇÃO\projeto1909\projeto\projeto\obj\Debug\projeto.pdb
